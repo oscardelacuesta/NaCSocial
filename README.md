@@ -1,17 +1,12 @@
 # NaCSocial
 𝗘𝘀𝘁𝗼 𝗲𝘀 𝘂𝗻 𝗲𝗷𝗲𝗺𝗽𝗹𝗼 𝗱𝗲 𝘂𝗻 𝘁𝗲𝘅𝘁𝗼 𝗴𝗲𝗻𝗲𝗿𝗮𝗱𝗼 𝗽𝗼𝗿 𝗲𝗹 𝘀𝗰𝗿𝗶𝗽𝘁, 𝘀𝗮𝗹𝘂2.
 
-Este script para windows permite crear textos en negrita y cursiva que una vez generados pueden ser usados en webs o sitios donde no se admitan estos caracteres.
-Son caracteres ASCII concertidos a Unicode. 
-Se usa un menu de opciones para seleccionar el tipo de letra y despues se inserta la frase que será colocada en el portapapeles de windows.
+Este script para Windows, llamado N-C-script.ps1, permite generar textos en negrita y cursiva que pueden ser utilizados en webs o sitios que no admiten estos formatos. Convierte caracteres ASCII a Unicode. Utiliza un menú de opciones para seleccionar el tipo de letra y, luego, se inserta la frase que se colocará en el portapapeles de Windows.
 
-Es un script para Windows powershell
+Es un script para PowerShell en Windows.
 
-El nombre del script : N-C-script.ps1
-Puede ser editado para ver que no compromete la seguridad y ver su funcionamiento.
-Han sido comentadas las líneas de las 2 funciones principales.
+El script puede ser editado para verificar que no compromete la seguridad y comprender su funcionamiento. Las líneas de las dos funciones principales están comentadas para facilitar la comprensión.
 
-Sitios donde se puede usar por ejemplo: X, Linkedin, etc.
+Este script es útil en sitios como X, LinkedIn, entre otros.
 
-Creado por @oscardelacuesta
-www.palentino.es
+Creado por @oscardelacuesta. Más información en www.palentino.es
