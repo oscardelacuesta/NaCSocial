@@ -10,3 +10,6 @@ El script puede ser editado para verificar que no compromete la seguridad y comp
 Este script es útil en sitios como X, LinkedIn, entre otros.
 
 Creado por @oscardelacuesta. Más información en www.palentino.es
+
+https://www.palentino.es/blog/generador-de-textos-en-negrita-y-cursiva-para-redes-sociales-como-linkedin-o-x/
+
