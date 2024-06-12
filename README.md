@@ -10,3 +10,8 @@ Es un script para Windows powershell
 El nombre del script : N-C-script.ps1
 Puede ser editado para ver que no compromete la seguridad y ver su funcionamiento.
 Han sido comentadas las líneas de las 2 funciones principales.
+
+Sitios donde se puede usar por ejemplo: X, Linkedin, etc.
+
+Creado por @oscardelacuesta
+www.palentino.es
